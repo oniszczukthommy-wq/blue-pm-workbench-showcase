@@ -1,0 +1,6 @@
+[submodule "integrations/agent-workshop"]
+	path = integrations/agent-workshop
+	url = https://github.com/hubooooooo/agent-workshop.git
+[submodule "integrations/ai-product-starter-kit"]
+	path = integrations/ai-product-starter-kit
+	url = https://github.com/hubooooooo/ai-product-starter-kit.git
